@@ -1,4 +1,6 @@
-# gemini-treadmill
+# Treadmill Form Analyzer
+
+**An AI running-form coach for the treadmill.** Point a camera at the treadmill (or drop in a video) and AI — [MediaPipe](https://developers.google.com/mediapipe) pose tracking + [Gemini](https://ai.google.dev/) — flags bad form and injury risk in real time.
 
 Two years ago, when I started regular cardio, my trainer told me:
 > "You know, treadmills are banned in some places because of injuries, but everyone still uses them!"
